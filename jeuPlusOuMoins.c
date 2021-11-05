@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <time.h>
-int jeuPlusOuMoins
-()
+int jeuPlusOuMoins()
 {
     int continuerPartie = 1;
     while(continuerPartie)
